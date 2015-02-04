@@ -9,3 +9,4 @@ db = SQLAlchemy(app)
 
 # import our own modules
 from users import controller
+from links import controller
